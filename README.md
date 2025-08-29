@@ -2,7 +2,7 @@
 
 Word_Counter_Tool is a simple and efficient utility designed to quickly and accurately count words and characters in any text input. It is perfect for writers, editors, students, and developers who need to analyze text length or word frequency with minimal effort, making it accessible to users of all backgrounds.
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](images/Screenshot.png)
 
 ## Features
 
